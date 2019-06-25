@@ -2,7 +2,7 @@
   "name": "Reactportfoliomaster",
   "version": "0.1.0",
   "homepage": "https://hackstreetguy.github.io/Portfolio",
-  "main": "index.js",
+  "main": "index.html",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
